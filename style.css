@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://kartinkin.net/uploads/posts/2021-01/1610883686_12-p-svetlii-belii-fon-19.jpg');
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    font-size: 48pt;
+    text-align: center;
+    color: #e1cc4f;
+}
+
+h2{
+    font-size: 26pt;
+    text-align: justify;
+    color: #8282bf;
+}
+
+p {
+    font-size: 18pt;
+    text-align: justify;
+    text-indent: 50px;
+    color: #228c22;
+    width:1900px;
+}
+
+a {
+    font-size: 24pt;
+    font-style: oblique;
+    color: ba7fa2;
+}
